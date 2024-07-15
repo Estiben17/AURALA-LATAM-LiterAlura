@@ -1,4 +1,4 @@
-#Arulalatam Library Management System#
+#Arulalatam Library Management System
 
 
 
@@ -7,7 +7,7 @@ Este proyecto es un sistema de gestión de bibliotecas que interactúa con la AP
 
 
 
-Dependencies
+#Dependencies
 
 ° Java 17
 ° Spring Boot
