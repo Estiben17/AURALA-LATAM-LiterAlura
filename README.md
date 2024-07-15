@@ -1,1 +1,0 @@
-# AURALA-LATAM-LiterAlura
